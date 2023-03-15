@@ -1,2 +1,2 @@
-# Stopwatch
- stopwatch project for coding ninjas skill test
+# stopwatch
+Stopwatch frontend project for Coding Ninja skill test.
